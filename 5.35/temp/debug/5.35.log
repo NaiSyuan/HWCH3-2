@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.35\source\main.c(15): warning C4778: 'printf' : 未結束的格式字串 '%\n'
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.35\source\main.c(15): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.35\source\main.c(15): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.35\source\main.c(9): warning C4101: 'b': 未參考的區域變數
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.35\source\main.c(9): warning C4101: 'c': 未參考的區域變數
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.35\source\main.c(29): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.35\source\main.c(42): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.35\source\main.c(46): warning C4715: 'fibonaccimax': 不是所有控制路徑都傳回值
+  5.35.vcxproj -> C:\Users\naisy\OneDrive\桌面\110360231_陳廼軒\5.35\5.35\5.35\..\..\temp\debug\5.35.exe

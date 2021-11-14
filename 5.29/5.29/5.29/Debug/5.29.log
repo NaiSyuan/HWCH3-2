@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.29\source\main.c(29): warning C4715: 'LCM': 不是所有控制路徑都傳回值
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\5.29\source\main.c(17): error C4700: 使用了未初始化的區域變數 'k'
